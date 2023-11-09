@@ -5,7 +5,7 @@ date:   2023-11-01
 description: I started my career analyzing real estate data at one of the most influential financial institutions in the world. I found, cleaned, interpreted, and analyzed data. My favorite part of the process, comes at the end - creating an impactful, and colorful, data visualization to tell the story of my findings. Great data visualizations are powerful and I share my thoughts on just how powerful they can be in this article.
 ---
 
-<p style="font-size:85%"></p>
+<p style="font-size:75%"></p>
 
 I started my career analyzing real estate data at one of the most influential financial institutions in the world. I found, cleaned, interpreted, and analyzed data. My favorite part of the process, comes at the end - creating an impactful, and colorful, data visualization to tell the story of my findings. Great data visualizations are powerful and I share my thoughts on just how powerful they can be in this article.
 
@@ -14,7 +14,7 @@ I started my career analyzing real estate data at one of the most influential fi
 
 While data collection, cleaning, and analysis have some wiggle room, and how the jobs get done, the ultimate goal will always be the same – find validated, accurate data; remove outliers, adjust data types, and appropriately restructure the data; and run some sort of statistical analysis based on tried and true methodologies. Put the data, visualization element, and the story that you tell with the results that you find is where the magic really happens. This is that "so what?" To why you began researching this topic in the first place. The graphical representation allows you to combine your expertise and experience with the objective results of the data.
 
-<h3 style="color:$primary-color"> Challenge the status quo</h3>
+#### Challenge the status quo
 
 Both professionally and beyond, I challenge the status quo way of thinking or problem-solving. I have heard so many times "we do it this way, because we always have” and actively combat that complacency by trying to find innovative approaches and solutions to what we are currently facing. My goal typically isn't to include change for the sake of change, and I don't always have the "right" answer, but what I do try to influence is a way of thinking that opens up more possibilities. This broader perspective that I hold translates to how I personally develop visualizations and graphics for the work I produce. There is no one size fits all approach or final result.
 
