@@ -16,6 +16,9 @@ Go to `_config.yml` and scroll to line 21. Add the `title` and the corresponding
 
 ### Update text-size
 
+**In a post**: At the beginning of each post, include the following: `<p style="font-size:85%"></p><span class="dropcap"></span>`. If you change this one post down the road, you'll want to go back and update all prior ones so it is consistent.
+
+**On the homepage / posts**: Go to `index.html` > line 15 > `<p style="font-size:80%">` and adjust the percentage.
 
 
 ## Notes from Developer
