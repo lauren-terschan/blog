@@ -3,7 +3,7 @@ GLOBAL STYLES
 ***************/
 
 body {
-	font-size: 125%;
+	font-size: 100%;
 }
 
 .content {
@@ -278,12 +278,12 @@ DARK THEME STYLING
 
 @media (prefers-color-scheme: dark) {
 	body {
-		background-color: black;
+		background-color: $site-background;
 		color: white;
 	}
 
 	.content:after,
 	.post .featuredImage:before {
-		background: black;
+		background: $site-background;
 	}
 }
