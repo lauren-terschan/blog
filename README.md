@@ -1,4 +1,18 @@
-![preview Long Haul](/preview.jpg)
+## My Notes for Updating
+
+**Update cover image**
+Upload new image as 'cover-image.jpg' into 'assets/img' folder. No need to delete the one there, it will be replaced if it has the same name.
+
+**Update site-background color**
+
+
+**Update main navigation tabs**
+
+
+**Update text-size**
+
+
+## Notes from Developer
 
 Long Haul is a minimal jekyll theme built with SASS and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
 
