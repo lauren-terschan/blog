@@ -25,8 +25,8 @@ In addition to creating the story and visuals that seamlessly reflect the inform
 
 
 <figure>
-	<img src="/assets/img/2023-11-01-color-blind.png" alt=""> 
-	<figcaption> Image source: Leonie Monigatti - Towards Data Science</figcaption>
+	<img src="/assets/2023-11-01-color-blind.png" alt=""> 
+	<figcaption>Image source: Leonie Monigatti - Towards Data Science</figcaption>
 </figure>
 
 
