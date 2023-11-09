@@ -16,7 +16,7 @@ body {
 	font-family: $serif;
 	line-height: 1.75;
 	font-size: 112.5%; // 18px base font size
-	color: $site-background;
+	color: $black;
 	overflow-x: hidden;
 	margin: 0;
 
@@ -502,7 +502,7 @@ DARK THEME STYLING
 
 @media (prefers-color-scheme: dark) {
 	body {
-		background-color: $black;
+		background-color: $site-background;
 		color: white;
 	}
 
