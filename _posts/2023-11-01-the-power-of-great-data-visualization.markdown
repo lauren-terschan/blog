@@ -24,7 +24,11 @@ Both professionally and beyond, I challenge the status quo way of thinking or pr
 In addition to creating the story and visuals that seamlessly reflect the information to be shown, I LOVE using color as a powerful tool in my creations. An important element to keep in mind is to create visually pleasing graphics that are also color-blind friendly. I think it's important for all who are able to see the graphic have a pleasant experience in doing so.  
 
 
-(add color blind image with source)
+<figure>
+	<img src="/assets/img/2023-11-01-color-blind.png" alt=""> 
+	<figcaption> Image source: Leonie Monigatti - Towards Data Science</figcaption>
+</figure>
+
 
 
 
