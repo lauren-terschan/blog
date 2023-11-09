@@ -26,15 +26,49 @@ In addition to creating the story and visuals that seamlessly reflect the inform
 
 <figure>
 	<img src="/assets/2023-11-01-color-blind.png" alt=""> 
-	<figcaption>Image source: Leonie Monigatti - Towards Data Science</figcaption>
+	<figcaption style="color:white; font-style: italic;">
+		Image source: Leonie Monigatti - Towards Data Science</figcaption>
 </figure>
 
 
+#### Keep the end-use in mind
+
+I have produced data visualizations in a variety of tools, including Microsoft Excel, the programming language R, the data visualization software Tableau, and in presentation decks where there may be manual elements, but there is greater freedom in what type of graphic I produce. Each tool has its unique approach and process to developing visualizations that are valuable in their own way. When selecting a tool to build a visualization, it's always important to understand how the information will be shared. For example, if you use Tableau Server (which allows you to publish your Tableau workbook, which is then shareable via a web link), you are able to share that work with anyone with access to that server. Alternatively, I have given a number of presentations where everything was compiled in PowerPoint slides that were sent to the conference coordinator ahead of time. In these cases, I may compile my visuals from a multitude of these sources, and include static images in the final deck I discuss.
 
 
+<blockquote style="text-align:center;">I believe the single most powerful tool of a great data visualization is its ability to influence.</blockquote>
+
+When you've done your homework and know that the messaging is clear (and not contradictory or confusing), the visual impact of a well designed graphic can be that of a picture. We have all heard the phrase "a picture is worth 1000 words.” Imagine creating some thing with that type of impact. Well-presented impact and clarity are particularly important in the cases where you aren’t directly presenting this information to your audience.  Influential data visualizations can connect with the viewers’ emotions, potentially eliciting a spark that eventually grows into action - if that is the intent of your work.
+
+#### Let's look at a simple example
+
+I will share more about my keen interest in personal finance in other articles, but here is an example of what I may create to help me reach a savings goal. In particular, I am very excited about reaching this goal, so I’d like to create something that will entice me to save more. 
+
+Assume the following situation for my income and expenses in a given month: 
+- Income: $3500 (after-tax take-home pay)
+- Expenses: $2400 (this covers necessities like food and housing)
+- Optional expenses: $600 (includes things I want to have, such as a gym membership and a Spotify subscription)
+- Savings: $500 (everything remaining)
+
+I compiled three saving options for myself, which comes from manipulating my “optional expenses” category.
+1. Save $500 / month, keeping my optional expenses as is.
+2. Save $700 / month, reducing my optional expenses by $200 / month.
+3. Save $900 / month, reducing my optional expenses by $400 / month. 
 
 
-<img src="/assets/2023-11-01-months-to-save.png" alt=""> 
+I used Google Sheets (not even Microsoft Excel) to compile both of my visualizations.
+
+The first, basic visualization shows my three savings options and the amount of time it will take to reach my goal for each savings rate. Remember, I am trying to entice myself to save as quickly as I can, so there is both a financial and a time element I am focused on. 
+
+I made minimal changes to the default graphic in the program, only changing the color of option 3 (which gets me to my goal the fastest) to red so it stood out and adding the month label to the graph. 
+
+
+<figure>
+	<img src="/assets/2023-11-01-months-to-save.png" alt=""> 
+	<figcaption style="color:white; font-style: italic;">
+		Basic visualization - How long to reach my saving goal in months </figcaption>
+</figure>
+
 
 
 
