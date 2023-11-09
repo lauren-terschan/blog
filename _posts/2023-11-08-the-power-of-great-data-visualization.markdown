@@ -2,6 +2,7 @@
 layout: post
 title:  "The Power of Great Data Visualization"
 date:   2023-11-01
+description: I started my career analyzing real estate data at one of the most influential financial institutions in the world. I found, cleaned, interpreted, and analyzed data. My favorite part of the process, comes at the end - creating an impactful, and colorful, data visualization to tell the story of my findings. Great data visualizations are powerful and I share my thoughts on just how powerful they can be in this article.
 ---
 
 <p class="intro"><span class="dropcap"></span>
