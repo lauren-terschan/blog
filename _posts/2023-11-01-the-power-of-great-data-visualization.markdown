@@ -69,9 +69,22 @@ I made minimal changes to the default graphic in the program, only changing the 
 		Basic visualization - How long to reach my saving goal in months </figcaption>
 </figure>
 
+In the visual above, it’s clear to see the higher saving rate leads me to my goal the fastest. This shows what I intuitively know and isn’t very impactful. Let’s take a different approach.
 
+The economist in me notes that the opportunity cost of the three timelines is what is impactful. Assuming the additional saving between the three options doesn’t significantly impact my standard of living, we can focus on what can be done over the same 20 months (longest time horizon) if I pursue the most aggressive saving option.
 
+To keep the example centered on financials and similar formatting, I modified the visual above to show how much total saving is possible over the entire 20-month time horizon. The lighter shaded section shows the **Additional Savings** I could have if I returned to my normal savings rate of $500 per month **after** I reach my $10,000 goal. 
 
+<figure>
+	<img src="/assets/2023-11-01-saving-tradeoff.png" alt=""> 
+	<figcaption style="color:white; font-style: italic;">
+		Revised visualization - Highlighting trade-offs </figcaption>
+</figure>
 
-<img src="/assets/2023-11-01-saving-tradeoff.png" alt=""> 
+<blockquote style="text-align:center;">I can quickly see that with option 3, I hit my savings goal in just under a year and can continue with my normal $500 per month savings rate to have almost $4,500 more at the end of 20 months than saving $500 per month for the entire 20 months. That is a big difference!!</blockquote>
 
+While I maintained the same basic formatting, these enhancements and reframing of the data tell a different story than the first visual. I can clearly see how much money I could leave on the table over the next 20 months by NOT saving more aggressively now. The desire to take action now and save more was exactly the intent of this graphic!
+
+#### Conclusion
+
+It’s easy to create data visualizations that depict what we intuitively know - saving more money each month will take me fewer months to reach a target. But with creativity and purpose, we can develop impactful visualizations that can influence others to take action or consider new ideas. Happy visualizing!
