@@ -1,15 +1,21 @@
-## My Notes for Updating
+# My Notes for Updating
 
-**Update cover image**
-Upload new image as 'cover-image.jpg' into 'assets/img' folder. No need to delete the one there, it will be replaced if it has the same name.
+### Update cover image
 
-**Update site-background color**
+Upload new image as `cover-image.jpg` into `assets/img` folder. No need to delete the one there, it will be replaced if it has the same name. `Add file` >> `Upload file` >> Choose the file >> `Commit`. You may need to try a few times to get the alignment of the image / text as you want it. It will take a few minutes to refresh on the webpage.
 
+These are the same steps for `faivcon.ico`.
 
-**Update main navigation tabs**
+### Update site-background color & main text color
 
+Go to `_sass/partials/_config.scss` and update the HEX color at line 33 - `$site-background`. This will update on mobile, tablet, and desktop. Similarly, update `$primary-color` to change the main color of the site.
 
-**Update text-size**
+### Update main navigation tabs
+
+Go to `_config.yml` and scroll to line 21. Add the `title` and the corresponding `url`. New pages will require a new markdown file to be added to the repository.
+
+### Update text-size
+
 
 
 ## Notes from Developer
