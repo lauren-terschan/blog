@@ -12,10 +12,10 @@ title: Lauren Terschan
 			<h4>
 				<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
 			</h4>
-			<p>
+			<h5>
 				{%- if post.description -%}{{ post.description }}{%- else -%}{{
 				post.excerpt | strip_html }}{%- endif -%}
-			</p>
+			</h5>
 		</article>
 		{%- endfor -%}
 	</div>
