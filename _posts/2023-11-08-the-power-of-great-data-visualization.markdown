@@ -21,4 +21,13 @@ Moving on from my personal approach, I believe the single most powerful tool of 
 Let's take a look at a trivial example.
 I will share more about my keen interest in personal finance in other articles, but here is an example of what I may create to help me reach a savings goal. In particular, I am very excited about reaching this goal, so I’d like to create something that will consistently entice me to save more.
 
+<img src="/assets/2023-11-01-months-to-save.png" alt=""> 
+
+In the first visual, it’s clear to see the higher saving rate leads me to my goal the fastest. This shows what I intuitively know and isn’t very impactful. Let’s take a different approach.
+
+The economist in me notes that the opportunity cost of the three timelines is what is impactful. Assuming the additional saving between the three options doesn’t significantly impact my standard of living, we can focus on what can be done over the same 20 months (longest time horizon) if I pursue the most aggressive saving option.
+
+To keep the example centered on financials and similar formatting, I modified the visual above to show how much total saving is possible over the 20-month time horizon. The lighter shaded section showing “# months leftover” is the amount of time until 20-months after the $10k goal is met. 
+
+<img src="/assets/2023-11-01-saving-tradeoff.png" alt=""> 
 
