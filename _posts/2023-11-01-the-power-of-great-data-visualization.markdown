@@ -81,7 +81,7 @@ To keep the example centered on financials and similar formatting, I modified th
 		Revised visualization - Highlighting trade-offs </figcaption>
 </figure>
 
-<blockquote style="text-align:center;">I can quickly see that with option 3, I hit my savings goal in just under a year and can continue with my normal $500 per month savings rate to have almost $4,500 more at the end of 20 months than saving $500 per month for the entire 20 months. That is a big difference!!</blockquote>
+I can quickly see that with option 3, I hit my savings goal in just under a year and can continue with my normal $500 per month savings rate to have almost $4,500 more at the end of 20 months than saving $500 per month for the entire 20 months. That is a big difference!
 
 While I maintained the same basic formatting, these enhancements and reframing of the data tell a different story than the first visual. I can clearly see how much money I could leave on the table over the next 20 months by NOT saving more aggressively now. The desire to take action now and save more was exactly the intent of this graphic!
 
