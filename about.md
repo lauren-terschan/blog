@@ -14,4 +14,4 @@ title: About Lauren
 
 </div>
 
-<!-- style="width:50%"
+<!-- style="width:50%" -->
