@@ -25,7 +25,7 @@ In addition to creating the story and visuals that seamlessly reflect the inform
 
 
 <figure>
-	<img src="/assets/2023-11-01-color-blind.png" alt=""> 
+	<img src="https://lofo10.github.io/blog/assets/2023-11-01-color-blind.png" alt=""> 
 	<figcaption style="color:white; font-style: italic;">
 		Image source: Leonie Monigatti - Towards Data Science</figcaption>
 </figure>
