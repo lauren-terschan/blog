@@ -64,7 +64,7 @@ I made minimal changes to the default graphic in the program, only changing the 
 
 
 <figure>
-	<img src="/assets/2023-11-01-months-to-save.png" alt=""> 
+	<img src="https://lofo10.github.io/blog/assets/2023-11-01-months-to-save.png" alt=""> 
 	<figcaption style="color:white; font-style: italic;">
 		Basic visualization - How long to reach my saving goal in months </figcaption>
 </figure>
@@ -76,7 +76,7 @@ The economist in me notes that the opportunity cost of the three timelines is wh
 To keep the example centered on financials and similar formatting, I modified the visual above to show how much total saving is possible over the entire 20-month time horizon. The lighter shaded section shows the **Additional Savings** I could have if I returned to my normal savings rate of $500 per month **after** I reach my $10,000 goal. 
 
 <figure>
-	<img src="/assets/2023-11-01-saving-tradeoff.png" alt=""> 
+	<img src="https://lofo10.github.io/blog/assets/2023-11-01-saving-tradeoff.png" alt=""> 
 	<figcaption style="color:white; font-style: italic;">
 		Revised visualization - Highlighting trade-offs </figcaption>
 </figure>
