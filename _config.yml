@@ -1,9 +1,9 @@
 title: Lauren Terschan
 description: Personal blog
 
-url: https://lofo10.github.io
+url: 'https://lofo10.github.io/'
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
-baseurl: # Ex: /project-page
+baseurl: 'lofo10.github.io/' # Ex: /project-page; leave blank as '' if using a custom domain
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
