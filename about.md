@@ -23,7 +23,7 @@ I am a competitive triathlete and a former personal trainer. I have always loved
 I'm also interested in personal finance, nutrition, and exploring. I love being outside in nature and will take every opportunity I get to be outside and active!
 
 <p align="center">
-<img src="https://lofo10.github.io/blog/assets/img/ironman.jpg" alt="" style="width:50%">
+<img src="https://lauren-terschan.github.io/blog/assets/img/ironman.jpg" alt="" style="width:50%">
 </p>
 
 <!-- </div> -->
