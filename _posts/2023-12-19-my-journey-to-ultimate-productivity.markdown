@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Journey to Ulitmate Productivity"
+title:  "My Journey to Ultimate Productivity"
 date:   2023-12-19
 description: Being organized has always been a part of who I am, for better or for worse. Since college, I have become increasingly interested in / fascinated by / borderline obsessed with productivity. I am always thinking about how to be efficient and effective, and it boils down to how I spend my time. In this post, I will share what I call “my productivity journey“ and the learnings I have had along the way. I will also share my current process.
 ---
