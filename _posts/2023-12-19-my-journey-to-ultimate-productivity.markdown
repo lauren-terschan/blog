@@ -11,3 +11,5 @@ Being organized has always been a part of who I am, for better or for worse. Sin
 
 <blockquote style="text-align:center;">“Being busy is a form of laziness – lazy thinking and indiscriminate action. Being overwhelmed is often as unproductive as doing nothing, and is far more unpleasant. Being selective – doing less – is the path of the productive. Focus on the important few and ignore the rest.”
 — Tim Ferriss</blockquote>
+
+Going to college was my first experience with massive amounts of unstructured time, as a semi-adult who was able to make her own choices. From the rigor of being a student at Georgia Tech, to being a self proclaimed “overachiever“, the source of my desire to be incredibly productive and get everything stuff done yesterday is unknown. While it’s true, it might be “how I am wired”, I have had my ups and downs - there have been times that I feel so accomplished and validated after getting a ton of work done, and there have been other times where not completing my to do list has left me overwhelmed and unmotivated. The analyst in me wondered if there were any patterns in my behavior that I could uncover. 
