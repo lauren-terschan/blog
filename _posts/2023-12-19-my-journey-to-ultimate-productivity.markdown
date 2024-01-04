@@ -32,6 +32,12 @@ Maybe I was working off of a master to do list and cherry picking items every da
 
 The other valuable take away from reviewing my past journals related to the types of goals I set for myself as well as how many goals I was setting at any given time. I am equally a “start on your goals now” type of person as much as I get the new year hype. I typically sit down and set goals for the coming year each December. For the past four years, I have had a lengthy list of goals based on key areas of my life – personal, professional, health, and other. What I was frustrated by was how similar many of my goals seemed from one year to the next. I also felt as though I didn’t achieve most of my goals each year, which was another frustration. Wanting to better understand why this happened, I spent a fair amount of time reflecting.
 
+<figure>
+	<img src="https://lauren-terschan.github.io/blog/assets/2023-12-19-goals.png" alt=""> 
+	<figcaption style="color:white; font-style: italic;">
+		Image source: Polina Kovaleva via Pexels </figcaption>
+</figure>
+
 #### What’s most important
 
 I recently stumbled upon a few articles where people were reviewing their 2023 goals and outlining their goals for the new year. Historically, it has been hit or miss for me to do a year-end review and assess the progress I made toward my goals, which made part of this personal reflection project a little challenging. One thing that, frankly, blew my mind was the number of goals these people had for the year. It was a fraction of the number of goals that I was striving for. Now, I am not commenting on how many goals is an appropriate number of goals for a year, but my personal assessment is that I had too many to truly give my focus to.
@@ -46,4 +52,12 @@ In this final section, I will share how I take these learnings of what’s most 
 
 #### What I am currently doing to stay on track + applying my learnings
 
+Setting goals ultimately comes from the dreams that you have for yourself and your life. Goals, should you decide to formalize them or not, can be a catalyst for growth and transformation. But the goals themselves don’t get you there, you do.
 
+In understanding my seasons of life and my tendency to always fill my time, I am making recalibration a big part of my process. I reassess both my availability to put effort into something and it’s alignment to my ultimate goals and personal values. Life is never linear, no matter how much I would like that to be the case or how much I try to control it.
+
+I have sat down and reevaluated my values, adding or subtracting based on where I currently am. I also made a list of my top personal priorities, and include them in my journal so they are always top of mind. Even though I know what they are, I can get distracted and lose focus sometimes on what is most important to me.
+
+Tactically, I reference this list each month when I set a few month-specific goals and think about how they connect to my bigger picture. I set aside time each week to realign myself with my priorities and my monthly goals to determine my key tasks for the week. I occasionally throw on additional tasks that are on my mind that I can do if I have leftover time. Lastly, each day I write down one thing I want to remember from the day as well as one thing I either learned or accomplished that I am particularly proud of. Sometimes things come up or I get sidetracked, but this all allows me to see that I am still getting things done and tracking what counts the most to me. 
+
+On a deeper level, my productivity journey has stemmed from how I see my own worth. As I noted at the beginning, there was no defining moment where this became truly apparent to me or an event that made me view myself differently. I hope this article helps you in someway, and for those who may view their value by the number of checkmarks on your to do list, please consider adding space for personal reflection to that list and see what happens.
