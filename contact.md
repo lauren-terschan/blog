@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Lauren
+title: Contact
 ---
 
 <div id="contact">
