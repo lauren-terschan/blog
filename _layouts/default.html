@@ -21,4 +21,18 @@
 
 </body>
 
+   {% if jekyll.environment == "production" %}
+   <!-- Google Analytics -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-E6YWLWYS6B"></script>
+   <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag() {
+       dataLayer.push(arguments);
+     }
+     gtag('js', new Date());
+     gtag('config', 'G-E6YWLWYS6B');
+   </script>
+   <!-- End Google Analytics -->
+   {% endif %}
+
 </html>
